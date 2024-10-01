@@ -59,7 +59,7 @@ cd sheepkeeps</code></pre>
             <li>Create a project in the <a href="https://console.developers.google.com/" target="_blank">Google Developer Console</a>.</li>
             <li>Enable the Google Drive API.</li>
             <li>Create credentials (Service Account) and download the JSON file.</li>
-            <li>Place the JSON file in the project directory and rename it to <code>credentials.json</code>.</li>
+            <li>Place the JSON file in the project directory and rename it to <code>credentials.json</code></li>
         </ul>
     </li>
 </ol>
