@@ -3,6 +3,10 @@
 <h2>Description</h2>
 <p>The SheepKeeps Telegram bot enables users to convert Note 5 URLs into downloadable PDF files. This process involves a few key steps, including converting the user-provided URL to an API endpoint, fetching data, downloading images, generating a PDF, and sharing the file through Google Drive or directly via Telegram.</p>
 
+<h2>Official Bot/channel</h2>
+<p>> https://t.me/Sheepkeeps_bot</p>
+<p>> https://t.me/sheepkeeps</p>
+
 <h2>Features</h2>
 <ul>
     <li><strong>Link Conversion:</strong> Converts Note 5 URLs into API endpoints for data retrieval.</li>
