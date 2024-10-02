@@ -19,8 +19,8 @@ import shutil
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s', level=logging.INFO)
 
 # Bot configuration
-bot_token = "7737748552:AAGrNfaI1N-FspVncs2giF2I7gBD9ksCB1k"
-credentials_file = "sc-classes-archive-629fe3b227ce.json"
+bot_token = "your_bot_token_here"
+credentials_file = "google_drive_api_Jason_file_name_here"
 folder_ids = {
     'Chemistry': '14gMH4GAdarymi8XwfE-qvCrNVF1CGuEP',
     'Physics': '1I8f4vbJFGxTlOnWO5e5WQUNCSE2NkP60',
